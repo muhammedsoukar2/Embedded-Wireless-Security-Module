@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Wirless Security Detector.PrjPcb]
+   Generated File[KRALBILGEHAN-RoundHoles.TXT]
+   Generated File[KRALBILGEHAN-SlotHoles.TXT]
+   Generated File[KRALBILGEHAN.LDP]
+   Generated File[KRALBILGEHAN.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 09:36:42 On 1.04.2026

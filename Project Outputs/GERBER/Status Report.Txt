@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Wirless Security Detector.PrjPcb]
+   Generated File[KRALBILGEHAN.GTO]
+   Generated File[KRALBILGEHAN.GTP]
+   Generated File[KRALBILGEHAN.GTS]
+   Generated File[KRALBILGEHAN.GTL]
+   Generated File[KRALBILGEHAN.GP1]
+   Generated File[KRALBILGEHAN.GP2]
+   Generated File[KRALBILGEHAN.GBL]
+   Generated File[KRALBILGEHAN.GBS]
+   Generated File[KRALBILGEHAN.GBP]
+   Generated File[KRALBILGEHAN.GBO]
+   Generated File[KRALBILGEHAN.GM8]
+   Generated File[KRALBILGEHAN.GKO]
+   Generated File[KRALBILGEHAN.GD1]
+   Generated File[KRALBILGEHAN.GD2]
+   Generated File[KRALBILGEHAN.GD3]
+   Generated File[KRALBILGEHAN.GD4]
+   Generated File[KRALBILGEHAN.GD5]
+   Generated File[KRALBILGEHAN.GG1]
+   Generated File[KRALBILGEHAN.GG2]
+   Generated File[KRALBILGEHAN.GG3]
+   Generated File[KRALBILGEHAN.GG4]
+   Generated File[KRALBILGEHAN.GG5]
+   Generated File[KRALBILGEHAN.GM]
+   Generated File[KRALBILGEHAN.EXTREP]
+   Generated File[KRALBILGEHAN.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 09:35:52 On 1.04.2026
